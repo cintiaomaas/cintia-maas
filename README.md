@@ -1,5 +1,3 @@
-# cintia-maas
-
 # Olá, eu sou a Cintia 👋
 
 ### QA Analyst | Software Quality | Test Automation
