@@ -8,20 +8,20 @@ Sou Analista de Qualidade de Software com experiência em testes manuais
 e automatizados, atuando na validação de aplicações Web, APIs e banco de dados.
 
 Atualmente tenho focado meus estudos e projetos em automação de testes,
-qualidade de software e boas práticas de QA.
+qualidade de software e boas práticas de QA, Engenharia de prompts e agentes de IA.
 
-## 🧪 Quality Assurance
+## Quality Assurance
 
-- Testes Funcionais
-- Testes Exploratórios
-- Testes de Regressão
-- Smoke Tests
+- Testes Funcionais e Exploratórios
+- Testes de Regressão e Smoke Tests
 - Testes de Integração
 - Testes de API
 - Automação E2E
 - BDD / Gherkin
+- Análise e documentação de cenários de teste
+- CI/CD aplicado à automação de testes
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Automação
 Cypress • Playwright • Selenium • CodeceptJS
@@ -38,18 +38,20 @@ Oracle • MySQL • SQL Server
 ### DevOps
 Git • GitHub Actions • GitLab CI/CD
 
-## 🚀 Projetos
+## Projetos em destaque
 
-### Atlas — Travel Planner
+### Viaja — Travel Planner
 
-Aplicação para planejamento de viagens com gerenciamento de:
+Aplicação para centralizar e organizar o planejamento de viagens.
 
-- Viagens
-- Orçamento e despesas
-- Checklist
-- Itinerário
-- Autenticação
-- Conversão de moedas
+Principais funcionalidades:
+
+- 🗺️ Gerenciamento de viagens
+- 💰 Controle de orçamento e despesas
+- ✅ Checklist de viagem
+- 📅 Itinerário
+- 🔐 Autenticação
+- 💱 Conversão de moedas
 
 Também desenvolvi projetos independentes para automação de testes:
 
@@ -57,7 +59,7 @@ Também desenvolvi projetos independentes para automação de testes:
 - Playwright E2E Tests
 - CI/CD com GitHub Actions
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Automação de testes
 - Playwright
@@ -65,6 +67,10 @@ Também desenvolvi projetos independentes para automação de testes:
 - Qualidade de Software
 - Inteligência Artificial aplicada a testes
 
-## 📫 Contato
+## Certificações
 
-LinkedIn | GitHub
+- CTFL — Certified Tester Foundation Level
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/cintia-maas/)
