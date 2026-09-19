@@ -31,6 +31,10 @@ REST Assured • Postman • Insomnia
 
 ### Linguagens
 JavaScript • TypeScript • Java • SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 
 ### Banco de Dados
 Oracle • MySQL • SQL Server
@@ -53,11 +57,11 @@ Principais funcionalidades:
 - 🔐 Autenticação
 - 💱 Conversão de moedas
 
-Também desenvolvi projetos independentes para automação de testes:
+Também desenvolvi projetos para automação de testes utilizando Playwright API/E2E e CI/CD com GitHub Actions :
 
-- Playwright API Tests
-- Playwright E2E Tests
-- CI/CD com GitHub Actions
+[![API Tests](https://img.shields.io/badge/Playwright-API_Tests-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/cintiaomaas/travel-planner-api-test)
+
+[![E2E Tests](https://img.shields.io/badge/Playwright-E2E_Tests-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/cintiaomaas/travel-planner-e2e-test)
 
 ## Atualmente estudando
 
